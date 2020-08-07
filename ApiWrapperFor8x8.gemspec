@@ -25,6 +25,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "bundler" , ">= 1.0.0"
   spec.add_dependency "httparty", ">= 0.9.0"
-  spec.add_dependency "json"    , "~> 1.8.0"
+  spec.add_dependency "json"    , "~> 2.3.1"
 
 end
